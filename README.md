@@ -1,1 +1,3 @@
 # Vehicle-Detection-with-State-of-the-Art-Deep-Learning-Models
+
+This project focused on leveraging benchmark object detection models, specifically YOLOv5 and EfficientDet, to accurately identify and classify vehicles in complex urban environments. We enhanced model performance through comprehensive data augmentation techniques, which improved the model's generalization and robustness. Additionally, we implemented an ensembling strategy, combining the strengths of multiple models to achieve superior accuracy. These efforts resulted in our team consistently ranking in the top 10 for both the first and second leaderboards, demonstrating the effectiveness of our approach.
